@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "meng.cloudflare-api-token",
+  "type": "java.lang.String",
+  "description": "cloudflare api token"
+}]}
